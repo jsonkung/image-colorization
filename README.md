@@ -1,7 +1,7 @@
 # Image Colorization
 Implementation of image colorization methods described in https://webee.technion.ac.il/people/anat.levin/papers/colorization-siggraph04.pdf and https://www3.cs.stonybrook.edu/~mueller/research/colorize/colorize-sig02.pdf as well as a combination of both.
 
-The main dependencies include to run this include:
+The main dependencies to run this include:
 - `scipy`
 - `Pillow`
 - `numpy`
