@@ -3,4 +3,4 @@ Implementation of image colorization methods described in https://webee.technion
 
 Dependencies can be installed by running `pip install -r requirements.txt`
 
-To run the colorization methods, use `main.py` where several tests are already provided.
+To run the colorization methods, use `main.py` where several tests are already provided. You may need to create a directory called `outputs` in order to run the existing tests.
